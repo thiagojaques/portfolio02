@@ -9,6 +9,7 @@ gunicorn = "*"
 heroku = "*"
 
 [dev-packages]
+pytest-django = "*"
 
 [requires]
 python_version = "3.10"
